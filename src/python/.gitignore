@@ -1,2 +1,5 @@
 /id128-constants.h
 *.py[oc]
+*.egg-info/
+pyvenv*/
+venv*/
